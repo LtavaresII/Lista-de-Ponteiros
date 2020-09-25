@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main()
+{
+    //char x[4]={136,137,138,139};
+    int x[4]={136,137,138,139};
+    //float x[4]={136,137,138,139};
+    //double x[4]={136,137,138,139};
+
+    printf("Valor de x: %p \n", x);
+    printf("Valor de x+1: %p \n", x+1);
+    printf("Valor de x+2: %p \n", x+2);
+    printf("Valor de x+3: %p \n", x+3);
+
+    return 0;
+}
