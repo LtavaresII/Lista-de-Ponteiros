@@ -25,3 +25,14 @@ Endereço de p :61fecc
 **&p+4: 9 (i+5)
 
 Questão 3:
+
+As ilegais são:
+
+p = i
+
+i = (*&)j
+
+q = *p
+
+Questão 4:
+
