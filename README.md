@@ -100,3 +100,13 @@ O primeiro programa percore o vetor vet[] e imprime os valores de cada posição
 O segundo percore vet[] e imprime os endereços de cada posição.
 
 Questão 9:
+
+a) char x[4]: 4092+1 (4093), 4092+2 (4094), 4092+3 (4095).
+
+b) int x[4]: 4092+2 (4094), 4092+4 (4096), 4092+6 (4098).
+
+c) float x[4]: 4092+4 (4096), 4092+8 (4100), 4092+12 (4104).
+
+d) double x[4]: 4092+8 (4100), 4092+16 (4108), 4092+24 (4116).
+
+Questão 10:
