@@ -123,3 +123,8 @@ Pelos resultados obtidos no codigo, os saltos da memoria batem com os resultados
 
 Questão 11:
 
+Comandos Invalidos: aloha = value", coisas[5] = aloha, pf = value.
+
+Comandos Validos: aloha[2] = value, scanf("%f", &aloha), printf("%f", aloha), coisas[4][4] = aloha[3], pf = aloha.
+
+Questão 12:
