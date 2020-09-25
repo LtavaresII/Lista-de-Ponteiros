@@ -3,6 +3,7 @@
 Nome: Luís Fernando Tavares
 
 Questão 1:
+
 p == &i : 1
 
 *p - *q : -2
