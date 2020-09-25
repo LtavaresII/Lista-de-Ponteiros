@@ -77,3 +77,10 @@ i = 3, vet[3] = 4.4, *(f + 3) = 4.4, &vet[3] = 61FEC0, (f + 3) = 61FEC0.
 i = 4, vet[4] = 5.5, *(f + 4) = 5.5, &vet[4] = 61FEC4, (f + 4) = 61FEC4.
 
 Questão 6:
+
+Valor da posicao 3: 3,
+Valor da posicao 5: 5,
+Endereco da posicao 5: 61fecc,
+Endereco da posicao 3: 61fec4,
+
+Questão 7:
