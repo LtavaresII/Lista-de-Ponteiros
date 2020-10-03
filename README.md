@@ -128,3 +128,7 @@ Comandos Invalidos: aloha = value", coisas[5] = aloha, pf = value.
 Comandos Validos: aloha[2] = value, scanf("%f", &aloha), printf("%f", aloha), coisas[4][4] = aloha[3], pf = aloha.
 
 Questão 12:
+
+Questão 16:
+
+A função qsort foi extremamente mais rapida de se exexutar do que a função de ordenação criada com base nela
