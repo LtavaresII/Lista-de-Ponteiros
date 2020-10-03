@@ -1,0 +1,42 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+float comparar(float a, float b){
+    if(*(int*)a>*(int*)b){
+        return b;
+    }else if(*(int*)b>*(int*)a){
+        return a;
+    }else{
+        return 0;
+    }
+}
+
+int main()
+{
+    int n,i;
+    float *x;
+    printf("Tamanho do Vetor: ");
+    scanf("%d",&n);
+
+    x= malloc(n *sizeof(int));
+
+    printf("Valores do Vetor: ");
+    for(i=0 ; i<n ; i++){
+        scanf("%f",&x[i]);
+    }
+
+    printf("Vetor Incial: \n");
+    for(i=0 ; i<n ; i++){
+        printf("%f ",x[i]);
+    }
+
+    for(i=0 ; i<n ; i++){
+       x[i] = comparar(x[i],x[i+1]);
+    }
+
+    printf("\nVetor Ordenado: \n");
+    for(i=0 ; i<n ; i++){
+        printf("%f ",x[i]);
+    }
+    return 0;
+}
