@@ -129,6 +129,23 @@ Comandos Validos: aloha[2] = value, scanf("%f", &aloha), printf("%f", aloha), co
 
 Questão 12:
 
+Questão 13:
+
+Questão 14:
+
+Questão 15:
+
 Questão 16:
 
 A função qsort foi extremamente mais rapida de se exexutar do que a função de ordenação criada com base nela
+
+Questão 17:
+
+Questão 18:
+
+Questão 19:
+
+Questão 20:
+
+
+
