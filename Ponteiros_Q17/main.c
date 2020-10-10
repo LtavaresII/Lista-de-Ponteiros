@@ -36,9 +36,9 @@ int main()
     printf("Vetor Soma (Z): ");
     SomaVetor(n,x,y,z);
     
-    free(x);
-    free(y);
     free(z);
+    free(y);
+    free(x);
 
     return 0;
 }
