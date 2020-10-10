@@ -1,6 +1,6 @@
 # Lista-de-Ponteiros
 
-Nome: Luís Fernando Tavares
+Integrantes: Luís Fernando Tavares
 
 Questão 1:
 
