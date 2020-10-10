@@ -35,6 +35,10 @@ int main()
     }
     printf("Vetor Soma (Z): ");
     SomaVetor(n,x,y,z);
+    
+    free(x);
+    free(y);
+    free(z);
 
     return 0;
 }
