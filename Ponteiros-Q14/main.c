@@ -34,5 +34,8 @@ int main()
     for(i=0 ; i<n ; i++){
         printf("%f ",x[i]);
     }
+    
+    free(x);
+    
     return 0;
 }
