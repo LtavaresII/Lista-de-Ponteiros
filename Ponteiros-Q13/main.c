@@ -39,6 +39,8 @@ int main(){
 
     printf("\nVetor Ordenado: \n");
     comparar(x,n);
+    
+    free(x);
 
     return 0;
 }
