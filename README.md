@@ -147,5 +147,4 @@ Questão 19:
 
 Questão 20:
 
-
-
+O Coletor de lixo foi mais lento para executar do que o malloc com o free
