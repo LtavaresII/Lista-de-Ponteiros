@@ -52,6 +52,8 @@ int main()
 
     printf("\nVetor Ordenado: \n");
     Ordenar(x,n,Comparar);
+    
+    free(x);
 
     return 0;
 }
