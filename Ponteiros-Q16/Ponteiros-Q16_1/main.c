@@ -39,6 +39,8 @@ int main()
     qsort(x, r, sizeof(int), comparar);
     t = clock() - t;
     printf("Tempo de execucao: %lf \n", ((double)t)/((CLOCKS_PER_SEC/1000))); //conversão para double
-
+    
+    free(x);
+    
     return 0;
 }
